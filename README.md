@@ -1,2 +1,4 @@
 # stereo-BRUVs-SOPs
-Standard Operating Procedures for the use of Stereo Baited Remote Underwater Video Systems in the field and lab
+This document outlines the standard operating procedures for: the deployment of stereo-BRUVs; the management of data and footage generated in the field; analysis of stereo-BRUVs video footage, and the management of the raw data.
+
+
